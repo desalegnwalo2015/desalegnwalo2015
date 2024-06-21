@@ -1,6 +1,4 @@
 ## Hi everybody!!!.. welcome to this maize leaf dataset 👋
-
-<!--
 **desalegnwalo2015/desalegnwalo2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas about my dataset:
 - The dataset contains two maize leaf diseases such as Maize Lethal nicrosis(MLN) and Maize Streak Virus (MVS)
